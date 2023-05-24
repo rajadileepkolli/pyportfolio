@@ -1,4 +1,4 @@
-requests==2.25.1
+requests==2.31.0
 casparser==0.4.8
 cutie==0.2.2
 click==8.0.1
